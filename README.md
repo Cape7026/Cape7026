@@ -10,7 +10,7 @@ This is the profile where I showcase my works and creations.
 I also work in art field producing art for my projects like music sprites and textures  
 
 
-#### Tools 
+### Tools 
 
 - C++ SFML
 - Python
@@ -21,7 +21,7 @@ I also work in art field producing art for my projects like music sprites and te
 - FL studio
 
 
-#### My interests
+### My interests
 
 I love to build software from low level for the finest control on every aspect of the software.
 I'm also interested in AI and machine learning, and plan to explore the field further and eventually build my own AI-based projects.
