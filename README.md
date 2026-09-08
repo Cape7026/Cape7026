@@ -11,7 +11,6 @@ This is the profile where I showcase my works and creations.
 
 I also work in art field producing art for my projects like music sprites and textures  
 
----
 
 ## Tools 
 
@@ -23,7 +22,6 @@ I also work in art field producing art for my projects like music sprites and te
 - Aesprite
 - FL studio
 
----
 
 ## My intrests
 
