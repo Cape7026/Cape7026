@@ -28,12 +28,3 @@ Tools
 I love to build software from low level for the finest control on every aspect of the software.
 I'm also interested in AI and machine learning, and plan to explore the field further and eventually build my own AI-based projects.
 
----
-
-### Machine I use
-A desktop pc
-- Windows 11 Pro
-- AMD Ryzen 5 5600X 6-Core Processor
-- NVIDIA RTX 3050 6gb
-- NVME SSD 1tb
-- DDR4 16gb RAM
