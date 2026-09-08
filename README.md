@@ -14,7 +14,6 @@ I also work in art field producing art for my projects like music sprites and te
 
 - C++ SFML
 - Python
-
 - VS code
 - Photoshop
 - Aesprite
