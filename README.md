@@ -26,6 +26,8 @@ I also work in art field producing art for my projects like music sprites and te
 I love to build software from low level for the finest control on every aspect of the software.
 I'm also interested in AI and machine learning, and plan to explore the field further and eventually build my own AI-based projects.
 
+---
+
 ### Machine I use
 A desktop pc
 - Windows 11 Pro
